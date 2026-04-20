@@ -1,0 +1,21 @@
+{
+    "author": "alstair@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "timebox-revamp",
+    "pebble": {
+        "displayName": "timebox-revamp",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "474e0c9b-824d-4dc2-8d87-e34c818e915e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
